@@ -1,6 +1,6 @@
 # Image Upload PWA Example
 
-This project, **image-upload-pwa-example**, is a modern web application built using React, TypeScript, and Vite. It's designed as a Progressive Web App (PWA) and allows users to load and save images to IndexedDB from their camera roll or directly from their camera. For a true PWA experience, it is configured to be served over HTTPS, even in development, using `https-localhost`.
+This project, **image-upload-pwa-example**, is a modern web application built using React, TypeScript, and Vite. It's designed as a Progressive Web App (PWA) and allows users to load and save images to IndexedDB from their camera roll or directly from their camera. For a true PWA experience, it is configured to be served over HTTPS, even in development.
 
 ## Getting Started
 
